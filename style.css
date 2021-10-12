@@ -32,6 +32,7 @@ body{
     border-bottom-right-radius: 30px;
     border-top-left-radius: 30px;
     letter-spacing: 8px;
+    /* border: fit-content; */
     line-height: 28px;
     
 }
